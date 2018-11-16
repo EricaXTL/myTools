@@ -1,3 +1,4 @@
+//获取left/top值
 let obj = (function(){
 
     function offset(ele){
