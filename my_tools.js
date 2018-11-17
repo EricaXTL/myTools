@@ -27,7 +27,7 @@ let obj = (function(){
         obj.t -= bt;
         return obj;
     }
-
+//抖动
     function dou(ele,attr,n,callback){
         let arr = [];
         let timer = null;
